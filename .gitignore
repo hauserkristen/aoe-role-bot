@@ -1,0 +1,4 @@
+*.pyc
+temp/
+__pycache__/
+hidden/
